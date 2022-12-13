@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+.btn {
+  margin-top: 50px; /* 윗 공간을 띄워줌*/
+  font-weight: 400;
+  color: #ffffff;
+  background-color: #b3d4fc;
+  text-align: center;
+  vertical-align: center; /*수직*/
+  border: 1px solid blue;  /*transparent 투명도?*/
+  padding: 5px;
+}
+/*마우스가 버튼에 올라갔을 때*/
+.btn:hover {
+  color: white;
+  background-color: #888888;
+  border: antiquewhite;
+}
+.show {
+  margin-top: 50px;
+  padding: 20px 30px;
+  border-top: 1px solid #b3d4fc;
+  border-bottom: 1px solid #b3d4fc;
+}
