@@ -1,1 +1,1 @@
-# javascript-jquery-study
+# javascript-basic-study
